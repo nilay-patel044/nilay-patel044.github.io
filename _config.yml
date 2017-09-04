@@ -5,7 +5,7 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "Nilay Patel" # Your name will go here
+  title: "Mr. Man" # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -18,7 +18,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: nilaypatel044@gmail.com    
+  email_address: nilaypatel044@gmail.com
   behance:
   bitbucket:
   dribbble:
