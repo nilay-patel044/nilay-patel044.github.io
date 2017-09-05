@@ -32,8 +32,7 @@ Although the expected time for building the fully functional music player websit
 As an amateur with this field, I wanted to fully understand my work and the reasoning behind it and not just its completion. There were times when I added, committed, and even published incorrect code. However, since I understood it while writing it, I was able to rewrite the code.
 
 
-Here is a link to the GitHub Repo for this Project:
-[a link](https://github.com/nilay-patel044/bloc-jams)
+[Here is a link to the GitHub Repo for this Project](https://github.com/nilay-patel044/bloc-jams)
 ## Conclusion
 
 It was AMAZING! Yes, there was time when I pulled my hair out because a thing or two didn't work. It was merely a result of spending more than enough time on concepts and sometimes technical issues such as not restarting my mac for a while.
