@@ -21,7 +21,7 @@ Thus, I decided to take on this approach myself as I will learn HTML, CSS, DOM T
 
 ## Solution
 
-Using the HTML5 and CSS3, I was able to create a basic website with different pages. So far I had basic website with different pages for album, songs, and even the main landing page. The album's page had a cover-art for the album, dummy songs, and even dummy length of the song, and a dummy player bar.Using Javascript helper library, jQuery, I was able to add more functionality to the collection/album view, add a working play/pause button on the album page, and even create a working play/pause button on the player bar. Additionally, I used jQuery to add next song and previous song to the player bar, and fully functioning seek bar. 
+Using the HTML5 and CSS3, I was able to create a basic website with different pages. So far I had basic website with different pages for album, songs, and even the main landing page. The album's page had a cover-art for the album, dummy songs, and even dummy length of the song, and a dummy player bar.Using Javascript helper library, jQuery, I was able to add more functionality to the collection/album view, add a working play/pause button on the album page, and even create a working play/pause button on the player bar. Additionally, I used jQuery to add next song and previous song to the player bar, and fully functioning seek bar.
 
 Majority of the features were straight forward to create. The only exception was the play/pause button on the seek bar. The issue was the variables that handled play/pause button were declared in local scope. Using the Google Chrome's Inspect tool, I tracked down the values passed between each call of every methods and variables. Thereafter, I discovered that the variables handling the play/pause button on the player bar needed to be declared in global scope.  
 
@@ -31,6 +31,9 @@ Although the expected time for building the fully functional music player websit
 
 As an amateur with this field, I wanted to fully understand my work and the reasoning behind it and not just its completion. There were times when I added, committed, and even published incorrect code. However, since I understood it while writing it, I was able to rewrite the code.
 
+
+Here is a link to the GitHub Repo for this Project:
+[a link](https://github.com/nilay-patel044/bloc-jams)
 ## Conclusion
 
 It was AMAZING! Yes, there was time when I pulled my hair out because a thing or two didn't work. It was merely a result of spending more than enough time on concepts and sometimes technical issues such as not restarting my mac for a while.
