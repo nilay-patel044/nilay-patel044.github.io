@@ -1,0 +1,14 @@
+---
+layout: post
+title: Why Frontend Development?
+date:   2015-11-17
+---
+As you might know, I do have a Bachelor's in Biology and minor certificates in Bioinformatics and Computer Science. You might ask, "But still?". Well, I graduated from UMBC with the hopes of attending medical school. Considering my not so strong GPA, I wasn't getting any Graduate Schools to accept my application. While still in school and preparing for medical school, I was working at family's Subway restaurant. An $8 per hour was not enough to pay my monthly bills and pay my student loan payments.
+
+I consulted my best-friend, Gaurang Bhatt, who suggested that I consider coding bootcamps. After strong consideration between FullStack Academy, Coding Bootcamp at UNC, and few other options, I decided to take the Bloc way. So, yes I do have some prior experience coding and I just need a fresh start with a completely different approach to find a better job. A Bachelor's in Biology isn't very popular in jobs. Even the places that accept it, they require additional certifications and seeking candidates with strong GPA.
+
+You might think that I didn't try hard enough, otherwise there are bunch of jobs that accept a Biology degree. Trust me! I filled out at least one application per day for over a year. Some were willing to interview me, but moved on with other candidates, while others simply didn't show any interest. Technology and Silicon Valley are moving forward at a wind speed and better paying jobs are open in the field of software and hardware development. I chose to go with frontend development and not software development because of lack of finances.
+
+After graduating from Bloc, I look forward to my first professional job in the field. I know that it won't be my dream job. But it will prepare me for my dream job as I am open to learning new technologies, and gaining new skills. In the past, I have stayed about 2-3 years at each job. I believe that it is considerably good amount of time to learn everything about the position a person holds in the company. If asked and contracted for more time, I would be happy to dedicate that time. If given an opportunity, I am willing to stay with one company and move-up the ladder.
+
+I believe that if I am not learning anything new or improving in my work after few years, it is time to try something new or move on. I really doubt whether technology few years down the road will be same as today. So, there will always be something new to learn and skills to improve on. If I am given an opportunity to become a president of the company or CEO of a company after enough time dedicated, and enough skills and knowledge gained, I would. I do understand that without at least 10 years into a company, I couldn’t even be considered for higher positions like that.
