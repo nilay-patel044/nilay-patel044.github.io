@@ -27,11 +27,11 @@ theme_settings:
   github: nilay-patel044
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: https://www.bloc.io/resources/git-checkpoint-workflow#before-each-checkpoint
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: https://stackexchange.com/users/11702354/nilay-patel
   steam:
   tumblr:
   twitter:
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-105931112-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
