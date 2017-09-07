@@ -1,37 +1,37 @@
 # SITE CONFIGURATION
- baseurl: "" # the subpath of your site, e.g. /blog/
- url: "http://nilaypatel.tech/"
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "http://nilaypatel.tech" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "Nilay Patel" # Your name will go here
+  title: Nilay Patel
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <p>I'm a kickass developer specializing in HTML5/CSS3, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
-
   # Icons
   rss: false
-  email_address: nilaypatel044@gmail.com
+  email_address: "nilaypatel044@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: nilay-patel044
+  github: "nilay-patel044"
   google_plus:
   instagram:
-  linkedin: https://www.bloc.io/resources/git-checkpoint-workflow#before-each-checkpoint
+  linkedin: https://www.linkedin.com/in/nilay-patel-8256b7a2/
   pinterest:
   reddit:
   soundcloud:
   stack_exchange: https://stackexchange.com/users/11702354/nilay-patel
+
   steam:
   tumblr:
   twitter:
@@ -73,6 +73,3 @@ sass:
   style: :compressed
 
 gems: [jekyll-paginate]
-
-include:
-    -_static
