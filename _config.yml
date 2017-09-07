@@ -73,3 +73,11 @@ sass:
   style: :compressed
 
 gems: [jekyll-paginate]
+<<<<<<< HEAD
+=======
+
+include:
+    -_static
+
+theme: jekyll-theme-midnight
+>>>>>>> 5ff18abd8da8c9522720acbfd21c6a1303a4f173
