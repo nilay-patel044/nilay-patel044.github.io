@@ -9,7 +9,7 @@ layout: default
     {% for project in site.portfolio limit:3 %}
     <div class="project">
       <div class="project-thumb">
-        <a href="{{ project.url | prepend: site.baseurl }}">
+        <a href="http://nilaypatel.tech/">
           <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
         </a>
       </div>
@@ -39,7 +39,7 @@ layout: default
         <div class="excerpt">
           {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
         </div>
-        <a href="http://nilaypatel.tech">
+        <a href="{{ post.url | prepend: site.baseurl }}">
           {{ site.theme_settings.str_continue_reading }}
         </a>
       </li>
