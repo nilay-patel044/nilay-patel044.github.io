@@ -76,3 +76,5 @@ gems: [jekyll-paginate]
 
 include:
     -_static
+
+theme: jekyll-theme-midnight
