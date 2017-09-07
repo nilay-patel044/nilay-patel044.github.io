@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Frontend Development?
-date:   2015-11-17
+date:   2017-09-05
 ---
 As you might know, I do have a Bachelor's in Biology and minor certificates in Bioinformatics and Computer Science. You might ask, "But still?". Well, I graduated from UMBC with the hopes of attending medical school. Considering my not so strong GPA, I wasn't getting any Graduate Schools to accept my application. While still in school and preparing for medical school, I was working at family's Subway restaurant. An $8 per hour was not enough to pay my monthly bills and pay my student loan payments.
 

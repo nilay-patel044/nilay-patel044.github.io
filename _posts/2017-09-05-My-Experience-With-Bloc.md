@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Experience With Bloc
-date: 2015-11-17
+date: 2017-09-05
 feature-img: "img/sample_feature_img.png"
 ---
 Simple! I chose Bloc for its curriculum and the connections it's mentors and members have in the technology field. Before selecting Bloc as my choice of boot-camp, I did extensive research on how much am I paying? what am I getting for what I am paying? is it worth it? do they offer any job guarantee? how lenient are they with study schedule? do I have to travel? do they have a community of members or just current students and mentors?
@@ -17,4 +17,3 @@ Through Bloc, I have learned the basics and insider tips on HTML/HTML5, CSS/CSS3
 Thereafter, I learned about jQuery and how it significantly reduces the amount of code we must write. The jQuery not only reduces the amount of code and makes it readable, but it simplifies complex element selection, animation usage, and event handling. By the completion of BlocJams, majority of the JavaScript code had been refactored to jQuery methods, variables, and calls, while HTML/CSS code refactored to HTML5/CSS3 to meet the modern browsers' standards.  
 
 I have been learning frontend development using Bloc's curriculum with the mentorship from my mentor for about two months. I have seen, read, and completed checkpoints and assignments in as little as 30 minutes to as much as 5 hours. I have even pulled my hair out, just to realize the error was syntactical or my computer needed to be restarted. With Bloc's curriculum and industry seasoned mentors, you get what is shown to you. They will work hard to help you, if you work hard to attempt at it and seek assistance promptly.
- 
