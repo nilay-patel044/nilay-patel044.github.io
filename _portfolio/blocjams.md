@@ -7,7 +7,7 @@ short-description: BlocJams is a Spotify replica for finding the best music and 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/BlocJams.png)
 
 ## Explanation
 
