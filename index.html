@@ -9,12 +9,12 @@ layout: default
     {% for project in site.portfolio limit:3 %}
     <div class="project">
       <div class="project-thumb">
-        <a href="nilaypatel.tech/">
+        <a href="{{ project.url | prepend: nilaypatel.tech/ }}">
           <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
         </a>
       </div>
       <div class="project-description">
-        <a href="nilaypatel.tech"><strong>{{ project.title }}</strong></a>
+        <a href="{{ project.url | prepend: nilaypatel.tech/ }}"><strong>{{ project.title }}</strong></a>
         <p>{{ project.short-description }}</p>
       </div>
     </div>
