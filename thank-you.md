@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Thank you for visiting my website. If you are an employer, please feel free to contact me if you are interested in hiring me for your company. For general visitors, if there is anything that you would like to suggest or believe that I can improve on, please email me and I will be sure to get it done ASAP. Your criticism and suggestions are whole-heartedly appreciated.  
