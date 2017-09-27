@@ -2,4 +2,4 @@
 layout: page
 title: Resume
 ---
-Here's a link to a PDF of [my resume](/docs/Nilay-Patel-Resume-Steely.pdf).
+Here's a link to a PDF of [my resume](https://issuu.com/nilaypatel044/docs/nilay-patel-resume-steely)
