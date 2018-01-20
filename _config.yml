@@ -6,12 +6,12 @@ url: "http://nilaypatel.tech" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Nilay Patel
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "A personal portfolio and blog website of Nilay Patel" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in HTML5/CSS3, AngularJS, and MongoDB.</p>
+     <p>I'm a kickass developer specializing in HTML5/CSS3, AngularJS, and Ruby on Rails.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
